@@ -12,6 +12,9 @@
 
 **blog**：kle123456.github.io
 
+**邮箱**：1341756212@qq.com
+
+
 ## 技术能力
 
 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
